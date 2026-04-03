@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+outputs/
+checkpoints.db
+.git/
+*.png
+*.jpg

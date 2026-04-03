@@ -1,0 +1,19 @@
+# Environment variables — NEVER push this
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Generated outputs — too large for git
+outputs/
+checkpoints.db
+
+# Mac garbage
+.DS_Store
+
+# Docker
+*.tar
