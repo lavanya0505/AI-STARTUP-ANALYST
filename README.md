@@ -64,7 +64,7 @@ Output Writer (8 files saved)
 
 ## Setup
 ```bash
-git clone https://github.com/Srishh1/startup-analyst
+git clone https://github.com/lavanya0505/AI-STARTUP-ANALYST
 cd startup-analyst
 python3 -m venv venv
 source venv/bin/activate
