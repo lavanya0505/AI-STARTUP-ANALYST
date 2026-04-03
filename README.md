@@ -1,7 +1,6 @@
 # Startup Analyst AI
 
-A production-grade multi-agent system that autonomously validates 
-startup ideas and generates investor-ready pitch decks.
+Production-grade multi-agent AI system that validates startup ideas and generates investor-ready pitch decks. Built with LangGraph, Groq LLM, and Tavily API, it features parallel agent execution, human-in-the-loop validation, reflection-based critique loops, and structured outputs with full observability and persistence.
 
 ## Architecture
 
